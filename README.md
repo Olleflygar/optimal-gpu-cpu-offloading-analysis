@@ -19,7 +19,7 @@ The report covers:
 - Detailed analysis of the proposed dynamic programming algorithm
 - Critical discussion of assumptions and limitations
 
-[Read the technical report](report.pdf)
+[Read the technical report](CourseProject_OlleFlygar.pdf)
 
 ## Original paper
 
