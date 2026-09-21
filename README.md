@@ -23,4 +23,4 @@ The report covers:
 
 ## Original paper
 
-[Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training](LINK_TO_PAPER)
+[Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training](https://inria.hal.science/hal-02316266/document)
